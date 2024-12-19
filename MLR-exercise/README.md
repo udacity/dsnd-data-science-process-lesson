@@ -1,22 +1,17 @@
-# Purpose of This Directory
+# Multiple Linear Regression Exercise
 
-This directory should contain any files and instructions necessary for exercises created for this lesson.
+This directory contains the files for starter and solution code for the exercise on modeling salaries with linear regression.
 
 ## Folder Structure
 
-Each exercise should be contained in its own folder using the naming convention of `concept#-name-of-concept`. See example below:
-
 ```
-exercises
-    |_ concept1-hello-world
-    |   |_ starter
-    |   |   |_ exercise-files
-    |   |_ solution
-    |   |   |_ solution_files
-    |_ concept2-foo-bar
-    |   |_ starter
-    |   |   |_ exercise-files
-    |   |_ solution
-    |   |   |_ solution_files
-    |_ README.md
+├── README.md
+├── solution
+│   ├── README.md
+│   ├── cleanedSO.csv
+│   └── mlr_exercise_solution.ipynb
+└── starter
+    ├── README.md
+    ├── cleanedSO.csv
+    └── mlr_exercise_starter.ipynb
 ```
